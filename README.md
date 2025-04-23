@@ -42,15 +42,16 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **VIVITRIP** | 체험 예약 기반 플랫폼, 무한스크롤/캘린더 시스템 구현 | [GitHub](https://github.com/your-project-url) · [회고](https://velog.io/@kingdawn/VIVITRIP1) |
-| **COWORKERS** | 커뮤니티 플랫폼, 랜딩 페이지/모달 시스템 구현 | [GitHub](https://github.com/your-project-url) · [회고](https://velog.io/@kingdawn/COWORKERS) |
-
+| **VIVITRIP** | 체험 예약 기반 플랫폼, 무한스크롤/캘린더 시스템 구현 | [GitHub](https://github.com/vivi-trip/vivitrip) · [회고](https://velog.io/@kingdawn/VIVITRIP1) |
+| **COWORKERS** | 커뮤니티 플랫폼, 랜딩 페이지/모달 시스템 구현 | [GitHub](https://github.com/part4-1st-team/coworkers) · [회고](https://velog.io/@kingdawn/COWORKERS) |
+| **Wikied** | 지인들과 함께 위키를 작성 플랫폼, 로그인 회원가입 페이지 구현 | [GitHub](https://github.com/sprint7-part3-team7/wikied) 
 ---
 
 ## 📚 Portfolio & Blog
+- 📎 [이력서 PDF 링크](https://drive.google.com/file/d/1V6ucXGA9I7zAEDKAz6rvFMeuTrxMLzRH/view?usp=sharing)
 - 📄 [포트폴리오 슬라이드 보기](https://drive.google.com/file/d/15F_W_XGkkI2VrZj6frb7GCA6zY8Ku-oB/view)
 - ✍️ [Velog 블로그](https://velog.io/@kingdawn)
-- 📎 [Resume PDF 링크](https://drive.google.com/file/d/1V6ucXGA9I7zAEDKAz6rvFMeuTrxMLzRH/view?usp=sharing)
+
 
 ---
 
