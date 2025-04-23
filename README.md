@@ -48,7 +48,7 @@
 ---
 
 ## 📚 Portfolio & Blog
-- 📎 [이력서 PDF 링크](https://drive.google.com/file/d/1V6ucXGA9I7zAEDKAz6rvFMeuTrxMLzRH/view?usp=sharing)
+- 📎 [이력서 PDF 링크](https://drive.google.com/file/d/143mPyOt50rLWw_vJWSiez1A-HFsOz4YS/view?usp=drive_link)
 - 📄 [포트폴리오 슬라이드 보기](https://drive.google.com/file/d/15F_W_XGkkI2VrZj6frb7GCA6zY8Ku-oB/view)
 - ✍️ [Velog 블로그](https://velog.io/@kingdawn)
 
